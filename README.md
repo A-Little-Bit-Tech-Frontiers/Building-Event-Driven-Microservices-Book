@@ -1,5 +1,3 @@
-## Building Event-Driven Microservices-Book
-
 ## "Building Event-Driven Microservices" 북 스터디
 
 ### 규칙
